@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duder</h1>
 
 
-- 📫 My discord username **Duder#1827**
+- 📫 My discord username [**Duder#1827**](https://discord.com/users/634716508777611274)
 
-- 🧧 My v3rmillion username [**welliew**](https://discord.com/users/634716508777611274)
+- 🧧 My v3rmillion username [**welliew**](https://v3rmillion.net/member.php?action=profile&uid=2038460)
 
 - 🔨 I’m currently working on [some RP games](https://github.com/Duderpast/Miscreleases/blob/main/README.md)
 
