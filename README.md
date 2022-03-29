@@ -7,4 +7,5 @@
 <p align="left">
 <a href="https://discord.gg//users/634716508777611274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="/users/634716508777611274" height="30" width="40" /></a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duderpast&theme=bear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=duderpast&theme=bear&date_format=M%20j%5B%2C%20Y%5D" alt="duderpast" /></p>
