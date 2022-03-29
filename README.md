@@ -7,7 +7,6 @@
 </p>
 
 <a href="https://www.lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png"/></a>
-<a href="https://www.linkedin.com/in/xtenzq/"><img src="https://img.shields.io/badge/LinkedIn-LuaU-00D1B2?logo=linkedin&style=flat-square"/></a>
-<a href="https://xtenzq.github.io/blog"><img src="https://img.shields.io/badge/blog-Nikita R-FF8800?style=flat-square"/></a>
+<a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-01A2FF?style=for-the-bage&logo=lua"/></a>
 <a href="https://xtenzq.github.io/cv"><img src="https://img.shields.io/badge/CV-Nikita R-FFCC22?style=flat-square"/></a>
 
