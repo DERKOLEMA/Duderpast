@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duder</h1>
-<h3 align="center">I am a person who likes to create fun things with my friends</h3>
 
- 
 - 👨‍💻 All of my misc projects are available at [https://github.com/Duderpast/Miscreleases](https://github.com/Duderpast/Miscreleases)
 
 - 📫 My discord user **Duder#1827**
