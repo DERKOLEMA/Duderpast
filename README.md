@@ -3,7 +3,7 @@
 
 - 📫 My discord username **Duder#1827**
 
-- 🧧 My v3rmillion username **welliew*
+- 🧧 My v3rmillion username [**welliew**](https://discord.com/users/634716508777611274)
 
 - 🔨 I’m currently working on [some RP games](https://github.com/Duderpast/Miscreleases/blob/main/README.md)
 
