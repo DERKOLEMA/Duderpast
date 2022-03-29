@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Duder</h1>
-<h2 align="center"><a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-01A2FF?style=for-the-bage&logo=lua"/></a>
+
+<h2 align="center">Ma main-sed langages<a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-01A2FF?style=for-the-bage&logo=lua"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD640?style=for-the-bage&logo=python"/></a></h2>
 
 <h3 align="center">Connect with me</h3>
