@@ -12,4 +12,4 @@
 <a href="https://discord.gg//users/634716508777611274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="/users/634716508777611274" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duderpast&show_icons=true&locale=en" alt="duderpast" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duderpast&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="duderpast" /></p>
