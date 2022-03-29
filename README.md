@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Duder</h1>
-<h3 align="center">I am a person who likes to create fun things with my friends</h3>
+<h3 align="center">🌹🍷🍒🎒🎈🍎❤️</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
