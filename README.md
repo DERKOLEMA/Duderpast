@@ -7,3 +7,5 @@
 - 📫 My discord user **Duder#1827**
 
 - 📄 Know about my experiences [https://discord.gg/876yJTzwGr](https://discord.gg/876yJTzwGr)
+ 
+- ⚡ Fun fact - ama Duder
