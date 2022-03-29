@@ -1,5 +1,5 @@
 Hi, I'm Duder
-<h align="center">Connect with me</h>
+<h1 align="center">Connect with me</h1>
 <p align="center">
 <a href="https://discord.gg/users/634716508777611274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/634716508777611274" height="30" width="40" /></a>
 </p>
