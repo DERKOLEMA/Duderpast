@@ -5,6 +5,4 @@
 - 📫 My discord user **Duder#1827**
 
 - 📄 Know about my experiences [https://discord.gg/876yJTzwGr](https://discord.gg/876yJTzwGr)
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=duderpast&label=Profile%20views&color=0e75b6&style=flat" alt="duderpast" /> </p>
 
