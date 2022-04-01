@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duder, Retired Shattered gang Member</h1>
+<h1 align="center">Hi 👋, I'm Duder</h1>
 
 
 - 📫 My discord account [**Duder#1827**](https://discord.com/users/634716508777611274)
