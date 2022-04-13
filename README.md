@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Duder</h1>
 
-[![Discord Bots](https://top.gg/api/widget/upvotes/790983234367520818.svg)(https://top.gg/bot/790983234367520818)
+<a href="https://top.gg/bot/790983234367520818">
+  <img src="https://top.gg/api/widget/upvotes/790983234367520818.svg">
+</a>
 
 - 📫 My discord account [**Duder#1827**](https://discord.com/users/634716508777611274)
 
