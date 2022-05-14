@@ -6,7 +6,7 @@
 <p align="center">
   <tr>
             <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duderpast&theme=tokyonight_duo&hide_border=true&ring=4F8CC9&currStreakLabel=FFFFFF&sideNums=4F8CC9&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+      <img src="https://camo.githubusercontent.com/4bf0af49a624b23b9680c63c2d9fc8e7565437e792b1025af23580c58b114697/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d766973696f6e2d667269656e646c792d6461726b" />
     </td>
   </tr>
 </p>
