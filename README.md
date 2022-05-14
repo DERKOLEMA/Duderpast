@@ -8,8 +8,6 @@
 
 - 🧧 My v3rmillion account [**welliew**](https://v3rmillion.net/member.php?action=profile&uid=2038460)
 
-- 🔨 I’m currently working on [some RP games](https://github.com/Duderpast/Miscreleases/blob/main/README.md)
-
-- 🧪 All of my misc projects are available at [https://github.com/Duderpast/Miscreleases](https://github.com/Duderpast/Miscreleases)
+- 🧪 All of my projects are available at [https://github.com/Duderpast/ActiveProjects](https://github.com/Duderpast/ActiveProjects)
 
 - 📜 Know about my experiences at my discord [server](https://discord.gg/876yJTzwGr)
