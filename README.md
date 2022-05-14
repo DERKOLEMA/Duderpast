@@ -6,7 +6,7 @@
 <p align="center">
   <tr>
             <td align="center" style="padding=0;width=50%;">
-      <img src="https://camo.githubusercontent.com/4bf0af49a624b23b9680c63c2d9fc8e7565437e792b1025af23580c58b114697/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d766973696f6e2d667269656e646c792d6461726b" />
+      <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Duderpast&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
     </td>
   </tr>
 </p>
