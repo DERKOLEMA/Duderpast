@@ -18,6 +18,11 @@
 </p>
 <p align="center">
 <a href="https://top.gg/bot/790983234367520818">
-  <img src="https://top.gg/api/widget/790983234367520818.svg">
+  <img src="https://top.gg/api/widget/servers/790983234367520818.svg">
+</a>
+</p>
+<p align="center">
+<a href="https://top.gg/bot/790983234367520818">
+  <img src="https://top.gg/api/widget/upvotes/790983234367520818.svg">
 </a>
 </p>
